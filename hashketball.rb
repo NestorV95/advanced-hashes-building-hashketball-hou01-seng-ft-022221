@@ -1,7 +1,7 @@
-require"pry"
+def game_hash{}
 
-game_hash
+#require"pry"
 
-binding.pry
+#binding.pry
 
 end
