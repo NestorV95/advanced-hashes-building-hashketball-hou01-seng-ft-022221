@@ -1,6 +1,6 @@
 require"pry"
 
-def game_hash(game)
+game_hash
 
 binding.pry
 
